@@ -1,0 +1,58 @@
+Once I has a cat. The cat was fast. It was much faster than than the average cat.
+
+1. Write a word before same word ( Ctrl )
+
+Once I has a small cat. The small cat was fast. It was much faster than than the average cat.
+
+2. Change same words ( Ctrl + d )
+
+Once I has a dog. The dog was fast. It was much faster than than the average dog.
+
+3. Multi line edits start ( alt + right click drag)
+
+Bob is busy on Mon
+Bob is busy on Tue
+Bob is busy on Wed
+Bob is busy on Thu
+Bob is busy on Fri
+Bob is busy on Sat
+Bob is busy on Sun
+
+4) Multi line edit End (ctrl + shift + l) + (right arrow)
+
+Monday will be cloudy.
+Tuesday will be cloudy.
+Wednesday will be cloudy.
+Thursday will be cloudy.
+Friday will be cloudy.
+Saturday will be cloudy.
+Sunday will be cloudy.
+
+
+5. Hop to the far left ( home ) after (ctrl + shift + l) + (right arrow)
+
+Did you know that Monday will be cloudy.
+Did you know that Tuesday will be cloudy.
+Did you know that Wednesday will be cloudy.
+Did you know that Thursday will be cloudy.
+Did you know that Friday will be cloudy.
+Did you know that Saturday will be cloudy.
+Did you know that Sunday will be cloudy.
+
+6. Wrap selection with tag (text highlight + alt + shift + w)
+
+<h2>John Doe</h2>
+Mike arthur
+<h3>MSD</h3>
+Royal Challengers Bangolore
+
+7. Wrap multiline highlights with a tag on each line 
+   (Highlight + ctrl + shift + l then alt + shift + w)
+
+<li>John Doe</li>
+<li>Tom Cruise</li>
+<li>Russel Crowe</li>
+<li>Tom Hanks</li>
+
+
+======End of Tutorial 1 ======
